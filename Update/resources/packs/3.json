@@ -1,0 +1,31 @@
+{
+  "frames": [
+    {
+      "filename": "resources/gui/trade.png",
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 442,
+        "h": 469
+      },
+      "sourceSize": {
+        "w": 442,
+        "h": 469
+      },
+      "rotated": false,
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 442,
+        "h": 469
+      }
+    }
+  ],
+  "meta": {
+    "image": "3.png",
+    "size": {
+      "w": 442,
+      "h": 469
+    }
+  }
+}
