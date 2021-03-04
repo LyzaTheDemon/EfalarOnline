@@ -4475,6 +4475,11 @@
       "ClientIgnore": true
     },
     {
+      "Path": "resources/paperdolls/Leather_Armour.png",
+      "Hash": "ad6af7a4931657876ff605f84a4bdc64",
+      "Size": 13432
+    },
+    {
       "Path": "resources/paperdolls/Leather_Pants.png",
       "Hash": "ab68ddcc01e8e4255c49d68e5c344424",
       "Size": 2318
