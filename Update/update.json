@@ -4475,6 +4475,11 @@
       "ClientIgnore": true
     },
     {
+      "Path": "resources/paperdolls/Leather_Pants.png",
+      "Hash": "ab68ddcc01e8e4255c49d68e5c344424",
+      "Size": 2318
+    },
+    {
       "Path": "resources/resources/1_Cactus Stump.png",
       "Hash": "40454a274cb1283de2c1afd0b7a9df62",
       "Size": 321,
